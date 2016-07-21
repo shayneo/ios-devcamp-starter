@@ -27,6 +27,6 @@ To get started, feel free to fork or download this project.
 
 ### Distribute your App
 Our drivers/users love connected car experiences. If you build something cool this weekend, we'd be eager to share it with our commuity. We do that a few ways.
-1. Listing your app in the [Vinli App Catalog](http://bit.ly/vinli-apps) - where ALL vinli users go to discover new apps.
-2. Blogs, tweets, emails, PR, etc. Here's a great example! [LINK](http://bit.ly/vl-july-apps)
+- Listing your app in the [Vinli App Catalog](http://bit.ly/vinli-apps) - where ALL vinli users go to discover new apps.
+- Blogs, tweets, emails, PR, etc. Here's a great example! [LINK](http://bit.ly/vl-july-apps)
   
