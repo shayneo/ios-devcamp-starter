@@ -8,10 +8,10 @@ Hope you're ready to start building awesome apps for the connected car 🚗🚗�
 
 To get started, feel free to fork or download this project.
 
-- [The Vinli Developer Portal](dev.vin.li)
+- [The Vinli Developer Portal](http://dev.vin.li)
 - [iOS SDK](https://github.com/vinli/ios-net)
-- [Our Docs](docs.vin.li)
-- [Virutal Vinli (for testing and simulating data)](blog.vin.li/tags/virtual-vinli)
+- [Our Docs](http://docs.vin.li)
+- [Virutal Vinli (for testing and simulating data)](http://blog.vin.li/tag/virtual-vinli)
 
 ### Need help?
 
