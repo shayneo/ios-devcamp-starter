@@ -15,6 +15,7 @@ To get started, feel free to fork or download this project.
 - [Our Docs](http://docs.vin.li)
 - [Virutal Vinli (for testing and simulating data)](http://blog.vin.li/tag/virtual-vinli)
   - [Vinli 101 (a 5 minute tutorial)](http://bit.ly/vinli101)
+
 ### Need help?
 
 - Come to the Vinli Getting Started Workshop on Saturday!!!
