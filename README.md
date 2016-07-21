@@ -30,3 +30,4 @@ Our drivers/users love connected car experiences. If you build something cool th
 - Listing your app in the [Vinli App Catalog](http://bit.ly/vinli-apps) - where ALL vinli users go to discover new apps.
 - Blogs, tweets, emails, PR, etc. Here's a great example! [LINK](http://bit.ly/vl-july-apps)
   
+[vinli-car-graphic](https://vinli-assets.s3.amazonaws.com/blog/vinli_sync_connected_1024.png)
