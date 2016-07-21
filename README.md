@@ -24,7 +24,6 @@ To get started, feel free to fork or download this project.
   - mobile 214-724-5137
   - email shayne@vin.li
   - twitter @shayneosullivan
-  - 
 
 ### Distribute your App
 Our drivers/users love connected car experiences. If you build something cool this weekend, we'd be eager to share it with our commuity. We do that a few ways.
